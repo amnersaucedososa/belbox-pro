@@ -79,4 +79,10 @@ Defino a grandes rasgos los modulos generales del sistema.
 	COMENTARIOS
 	Te invito a que dejes un comentario describiendo que tal te pareció el sistema de BELBOX PRO V2.0 con PHP, te lo agradeceré.
 	email: waptoing7@gmail.com
+	
+demo:
+http://belbox.22web.org/
+
+video demo:
+https://www.youtube.com/watch?v=5PKtk5BMr10
 
