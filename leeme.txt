@@ -1,6 +1,6 @@
 - - - - -  - - - - - - - - - - - BELBOX PRO V2.0 - Compartir archivos- - - - - - - - - - - - 
 
-	BELBOX V2.0 es un sistema para compartir archivos de proposito general, codigo abierto y gratis.
+	BELBOX V2.0 es un sistema para compartir archivos de proposito general.
 
 				"Este es la version Pro de belbox Beta"
 
